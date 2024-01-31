@@ -13,8 +13,8 @@ Check Out my website emanuelerucci.it where you can find other project that i do
 My work include project in several fields such as:
 - Ai & computer science, machine learning, deep learning
 > i have academia projects in several topics like NLP, Vision, Reinforcement Learning, Geometric Deep Learning
-- Web Development: this is my part time job
-> i use framework like Laravel, React-js 
+- Web&App Development: this is my part time job
+> i use framework like Laravel, React-js, React Native
 - Robotics: projects still to come
 
 # My passion
