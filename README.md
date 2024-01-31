@@ -11,7 +11,7 @@ Check Out my website emanuelerucci.it where you can find other project that i do
 
 # 💡 What do i do?
 My work include project in several fields such as:
-- old school Ai, machine learning, deep learning
+- Ai & computer science, machine learning, deep learning
 > i have academia projects in several topics like NLP, Vision, Reinforcement Learning, Geometric Deep Learning
 - Web Development: this is my part time job
 > i use framework like Laravel, React-js 
