@@ -1,7 +1,8 @@
 # HELLO EVERYONE!
-This is ManuKick, 24, Italian Rome/Bari.
+This is ManuKick, 25, Italian Rome/Bari.
 I have a Bachelor Degree in Computer Science in Università degli Studi di Bari, Italy;
 I'm currenlty pursuing a Master Degree in Ai & Robotics in Università La Sapienza in Rome, Italy.
+Now I'm living in Singapore doing my master Thesis in SUTD!
 
 
 This is my nerdy space where i publish my personal and academia projects.
